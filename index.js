@@ -32,7 +32,7 @@ function disappear(){
 }
 
 function swapImage(){
-    document.getElementById("hope").src = "/images/Heart-Cat.gif";
+    document.getElementById("hope").src = "./images/Heart-Cat.gif";
 }
 
 function flashRainbowColors(callback) {
